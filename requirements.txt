@@ -1,0 +1,4 @@
+aiohttp
+opencv-python
+PyQt5
+Pillow
